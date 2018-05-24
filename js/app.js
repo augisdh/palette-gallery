@@ -1,5 +1,4 @@
 "use strict";
-
 const panels = document.querySelectorAll(".panel");
 
 function toggleOpen(){
